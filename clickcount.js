@@ -19,4 +19,4 @@ function clickCount(x){
 		localStorage.clickcount = 0;
 		document.getElementById('result').innerHTML = "You have not clicked this button yet!";
 	}
-}
+} 
